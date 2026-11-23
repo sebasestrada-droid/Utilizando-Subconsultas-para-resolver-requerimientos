@@ -39,10 +39,4 @@ Requisitos
 - Usuario de base de datos "PRY2205_S5".
 - Tablas previamente creadas y pobladas.
 
-Ejecución
-
-1. Crear el usuario y la conexión correspondiente.
-2. Ejecutar el script de creación y poblamiento de las tablas.
-3. Abrir "PRY2205_Semana5_FinanCorp.sql".
-4. Ejecutar el archivo mediante F5 en Oracle SQL Developer.
 
